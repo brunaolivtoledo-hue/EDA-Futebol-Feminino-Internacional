@@ -9,6 +9,7 @@ Em 2027, o Brasil vai sediar pela primeira vez uma Copa do Mundo Feminina, a pri
 <p align="center">
   <img src="imagens/evolucao_aproveitamento.png" alt="Aproveitamento competitivo das finalistas de Copa por década" width="700">
 </p>
+[Ver o notebook completo](https://nbviewer.org/github/brunaolivtoledo-hue/EDA-Futebol-Feminino-Internacional/blob/main/analise_futebol_feminino.ipynb)
 
 ## Perguntas e respostas
 
