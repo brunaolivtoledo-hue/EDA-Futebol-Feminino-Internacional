@@ -36,22 +36,13 @@ Em 2027, o Brasil vai sediar pela primeira vez uma Copa do Mundo Feminina, a pri
 ```
 .
 ├── README.md
-├── LINCENSE
+├── LICENSE
 ├── .gitignore
 ├── requirements.txt
 ├── config.py                      # listas de classificação (torneios não competitivos e confederações)
 ├── _limpeza.ipynb                 # limpeza dos dados brutos
 ├── analise_futebol_feminino.ipynb # análise exploratória (as 6 perguntas)
-├── imagens/
-   │   └── aproveitamente_casa_fora
-   │   └── evolucao_aproveitamento.png
-   │   └── gols_goleadas.png
-   │   └── mapa_calor_confronto_direto.png
-   │   └── partidas_seleoes_por_ano.png
-   │   └── sel_part_ano.png
-   │   └── selecao_sede_visitantes.png
-   │   └── selecoes_ativas_confederacao.png
-   │   └── trajetoria_finalistas.png
+├── imagens/                       # gráficos do notebook, em PNG
 └── data/
     ├── results.csv                # partidas (bruto)
     ├── shootouts.csv              # disputas de pênaltis (bruto)
